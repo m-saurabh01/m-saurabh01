@@ -1,17 +1,58 @@
-# 💫 About Me:
-I'm a dedicated software developer with a strong foundation in Spring Boot, Microservices, React, and Angular. My focus lies in creating efficient and scalable solutions that meet the demands of modern applications.<br><br>I'm actively seeking opportunities to collaborate on microservices and cloud-based backend and frontend projects. My expertise allows me to contribute significantly to the development and deployment of robust and scalable systems.<br><br>I'm currently looking for help with mid-scale deliverable projects to further hone my skills and gain practical experiences. I'm eager to work alongside experienced professionals to learn and contribute to successful project outcomes.<br><br>In addition to my current skills, I'm continuously expanding my knowledge by learning React, Node.js, Express, and SpringBoot Microservices.These technologies are essentials for building modern, and efficient applications.
+# 👋 Hi, I'm Saurabh Mishra  
 
+💻 **Full Stack Java Developer | AI & Cloud Enthusiast**  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/er-saurabh) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=m-saurabh01&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m-saurabh01&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-saurabh01&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a dedicated software developer with **2.5+ years of industry experience**, specializing in **Spring Boot, Microservices, Angular, React, and FastAPI**. My work spans **enterprise-grade applications, AI-driven solutions, and offline-first systems** designed for security, scalability, and performance.  
 
 ---
 
+## 🚀 About Me  
+- 🔹 Experienced in **Java, Python, SQL/NoSQL, and modern web frameworks**  
+- 🔹 Built enterprise projects for the **defense and aviation sectors (HAL, e-MMS, etc.)**  
+- 🔹 Designed and deployed the **first AI-driven solution** in my current project — recognized and awarded by management for this achievement  
+- 🔹 Passionate about **Retrieval-Augmented Generation (RAG), secure APIs, and role-based systems**  
+- 🔹 Certified in **AWS Cloud Practitioner, Google Associate Cloud Engineer, and Google Generative AI**  
+
+---
+
+## 🔧 Tech Stack  
+**Languages & Databases**: Java, Python, SQL, MySQL, MongoDB, Redis  
+**Frameworks**: Spring Boot, Spring MVC, Angular, React, FastAPI, JSP  
+**AI & Data**: FAISS, ChromaDB, LlamaIndex, spaCy, Tesseract, SentenceTransformers  
+**Web Tools**: HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, Chart.js, TinyMCE  
+**Messaging & Caching**: Kafka, Redis  
+**Cloud & DevOps**: AWS, GCP, Docker, Kubernetes  
+**Version Control**: Git, GitHub  
+
+---
+
+## 📌 Featured Projects  
+- 🔹 **[FlowBit](https://github.com/m-saurabh01/flowbit)** – Role-Based Task Management System (Spring Boot, JSP, MySQL, Chart.js, JWT)  
+- 🔹 **[Modern RAG App](https://github.com/m-saurabh01/modern-rag-app)** – Production-ready Retrieval-Augmented Generation with FastAPI, FAISS, ChromaDB, and LlamaIndex  
+- 🔹 **[HAL Sarathi](https://github.com/m-saurabh01/hal-sarathi)** – Offline-first Q&A chatbot for HAL (FastAPI, Python, Bootstrap, RapidFuzz)  
+- 🔹 **HAL Sync** – Data synchronization system for HAL, reducing sync time by 95%  
+- 🔹 **e-MMS Lite** – Asset management system for defense sector  
+
+---
+
+## 🌱 Currently Exploring  
+- Advanced **RAG pipelines** with **LlamaIndex + local LLMs**  
+- **Cloud-native microservices** with **Kubernetes & Docker**  
+- Scaling **real-time task management platforms** with Kafka & Redis  
+
+---
+
+## 🤝 Collaboration  
+I’m actively seeking opportunities to:  
+- Contribute to **cloud-based, AI-driven, and microservices projects**  
+- Collaborate on **enterprise-scale full-stack applications**  
+- Work with professionals on **innovative mid/large-scale deliverables**  
+
+---
+
+## 📫 Connect with Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/msaurabh01)  
+- 💻 [GitHub](https://github.com/m-saurabh01)  
+- ✉️ msaurabh737@gmail.com  
+
+---
