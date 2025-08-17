@@ -53,4 +53,4 @@ I am actively seeking opportunities to:
 ## Connect  
 - [LinkedIn](https://www.linkedin.com/in/msaurabh01)  
 - [GitHub](https://github.com/m-saurabh01)  
-- [Email](msaurabh737@gmail.com)
+- [Email](mailto:msaurabh737@gmail.com)
