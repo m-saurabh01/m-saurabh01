@@ -19,9 +19,8 @@ I am a software developer with 2.5+ years of experience in building secure, scal
 **Languages & Databases**: Java, Python, SQL, MySQL, MongoDB, Redis  
 **Frameworks**: Spring Boot, Spring MVC, Angular, React, FastAPI, JSP  
 **AI & Data**: FAISS, ChromaDB, LlamaIndex, spaCy, Tesseract, SentenceTransformers  
-**Web Tools**: HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, Chart.js, TinyMCE  
-**Messaging & Caching**: Kafka, Redis  
-**Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes  
+**Web Tools**: HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap
+**Cloud & DevOps**: AWS, Google Cloud, Docker  
 **Version Control**: Git, GitHub  
 
 ---
