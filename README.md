@@ -11,7 +11,7 @@ I am a software developer with 2.5+ years of experience in building secure, scal
 - Developed enterprise-grade solutions for the **defense and aviation sectors**  
 - Designed and implemented AI-powered applications, including offline-first and Retrieval-Augmented Generation (RAG) systems  
 - Certified in **AWS Cloud Practitioner, Google Associate Cloud Engineer, and Google Generative AI**  
-- Passionate about **enterprise software, secure APIs, and cloud-native architectures**  
+- Passionate about **enterprise software, secure APIs, and cloud-native architecture**  
 
 ---
 
