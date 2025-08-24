@@ -9,9 +9,9 @@ I am a software developer with 2.5+ years of experience in building secure, scal
 ## About Me  
 - Experienced in **Java, Python, SQL/NoSQL, and modern frontend frameworks**  
 - Developed enterprise-grade solutions for the **defense and aviation sectors**  
-- Designed and implemented AI-powered applications, including offline-first and Retrieval-Augmented Generation (RAG) systems  
+- Designed and implemented AI-powered applications, including offline-first and Retrieval-Augmented Generation (RAG) system 
 - Certified in **AWS Cloud Practitioner, Google Associate Cloud Engineer, and Google Generative AI**  
-- Passionate about **enterprise software, secure APIs, and cloud-native architecture**  
+- Passionate about **enterprise software, secure APIs, and cloud-native architectures**  
 
 ---
 
