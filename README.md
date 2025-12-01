@@ -2,7 +2,7 @@
 
 **Full Stack Java Developer | AI and Cloud Enthusiast**  
 
-I am a software developer with 2.5+ years of experience in building secure, scalable, and high-performance applications. My expertise spans full-stack development with **Spring Boot, Angular, React, and FastAPI**, combined with a strong background in **microservices, cloud platform, and AI-driven systems**.  
+I am a software developer with 2.5+ years of experience in building secure, scalable, and high-performance applications. My expertise spans full-stack development with **Spring Boot, Angular, React, and FastAPI**, combined with a strong background in **microservices, cloud platform, and AI-driven system**.  
 
 ---
 
